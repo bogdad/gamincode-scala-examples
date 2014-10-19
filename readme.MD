@@ -1,0 +1,1 @@
+solutions to http://www.codingame.com/ problems in scala
